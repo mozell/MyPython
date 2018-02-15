@@ -24,4 +24,5 @@ print(sess.run(hello))
 print(sess.run([a, b, c, d]))
 
 # 세션을 닫습니다.
+
 sess.close()
