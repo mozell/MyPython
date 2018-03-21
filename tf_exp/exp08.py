@@ -13,13 +13,13 @@ global_step = tf.Variable(0, trainable= False, name='global_step')
 X = tf.placeholder(tf.float32)
 Y = tf.placeholder(tf.float32)
 
-W1 = tf.Variable(tf.random_uniform([2,10], -1, 1))
+W1 = tf.Variable(tf.random_uniform([2,10], -1., 1.))
 L1 = tf.nn.relu(tf.matmul(X, W1))
 
-W2 = tf.Variable(tf.random_uniform([10,20], -1, 1))
+W2 = tf.Variable(tf.random_uniform([10,20], -1., 1.))
 L2 = tf.nn.relu(tf.matmul(L1, W2))
 
-W3 = tf.Variable(tf.random_uniform([20,3], -1, 1))
+W3 = tf.Variable(tf.random_uniform([20,3], -1., 1.))
 model = tf.matmul(L2, W3)
 
 cost = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(labels= Y, logits= model))
