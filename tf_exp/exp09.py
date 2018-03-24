@@ -61,10 +61,10 @@ print('실제값:',sess.run(target, feed_dict={Y:y_data}))
 is_correct = tf.equal(prediction, target)
 accuracy = tf.reduce_mean(tf.cast(is_correct, tf.float32))
 print('정확도:%.2f'%sess.run(accuracy * 100, feed_dict={X:x_data, Y:y_data}))
+000
 
 
-
-# data = np.loadtxt('./data.txt', delimiter=',', unpack=True, dtype='float32')
+# data = np.loadtxt('./data.txt', delimiter=',', unpack=True, dtype='float32')0
 #
 # x_data = np.transpose(data[0:2])
 # y_data = np.transpose(data[2:])

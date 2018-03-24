@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8931dbe0-e918-416e-b51b-a31df3fd062c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/tf_exp/exp08.py" afterPath="$PROJECT_DIR$/tf_exp/exp08.py" />
-      <change beforePath="$PROJECT_DIR$/tf_exp/model/checkpoint" afterPath="$PROJECT_DIR$/tf_exp/model/checkpoint" />
-      <change beforePath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-2.data-00000-of-00001" afterPath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-2.data-00000-of-00001" />
-      <change beforePath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-2.index" afterPath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-2.index" />
-      <change beforePath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-2.meta" afterPath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-2.meta" />
-      <change beforePath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-4.data-00000-of-00001" afterPath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-4.data-00000-of-00001" />
-      <change beforePath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-4.index" afterPath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-4.index" />
-      <change beforePath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-4.meta" afterPath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-4.meta" />
+      <change beforePath="$PROJECT_DIR$/tf_exp/exp09.py" afterPath="$PROJECT_DIR$/tf_exp/exp09.py" />
+      <change beforePath="$PROJECT_DIR$/tf_exp/model/checkpoint" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-2.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-2.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-2.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-4.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-4.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-4.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-6.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-6.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-6.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-8.data-00000-of-00001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-8.index" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tf_exp/model/dnn.ckpt-8.meta" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -91,11 +96,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exp09.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="exp09.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tf_exp/exp09.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exp10.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tf_exp/exp10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1005">
+              <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -134,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JumptoPython/05.1.HousePark.py" />
         <option value="$PROJECT_DIR$/JumptoPython/05.2.mod1.py" />
         <option value="$PROJECT_DIR$/JumptoPython/mod1.05.2.py" />
         <option value="$PROJECT_DIR$/JumptoPython/05mod1.py" />
@@ -185,6 +201,7 @@
         <option value="$PROJECT_DIR$/tf_exp/data.txt" />
         <option value="$PROJECT_DIR$/tf_exp/exp08.py" />
         <option value="$PROJECT_DIR$/tf_exp/exp09.py" />
+        <option value="$PROJECT_DIR$/tf_exp/exp10.py" />
       </list>
     </option>
   </component>
@@ -269,25 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exp09">
-    <configuration name="exp04" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tf_exp" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="__Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf_exp/exp04.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.exp10">
     <configuration name="exp06" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -360,20 +359,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="exp10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tf_exp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="__Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf_exp/exp10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.exp04" />
-      <item index="1" class="java.lang.String" itemvalue="Python.exp06" />
-      <item index="2" class="java.lang.String" itemvalue="Python.exp07" />
-      <item index="3" class="java.lang.String" itemvalue="Python.exp08" />
-      <item index="4" class="java.lang.String" itemvalue="Python.exp09" />
+      <item index="0" class="java.lang.String" itemvalue="Python.exp06" />
+      <item index="1" class="java.lang.String" itemvalue="Python.exp07" />
+      <item index="2" class="java.lang.String" itemvalue="Python.exp08" />
+      <item index="3" class="java.lang.String" itemvalue="Python.exp09" />
+      <item index="4" class="java.lang.String" itemvalue="Python.exp10" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.exp09" />
-        <item index="1" class="java.lang.String" itemvalue="Python.exp08" />
-        <item index="2" class="java.lang.String" itemvalue="Python.exp07" />
-        <item index="3" class="java.lang.String" itemvalue="Python.exp06" />
-        <item index="4" class="java.lang.String" itemvalue="Python.exp04" />
+        <item index="0" class="java.lang.String" itemvalue="Python.exp10" />
+        <item index="1" class="java.lang.String" itemvalue="Python.exp09" />
+        <item index="2" class="java.lang.String" itemvalue="Python.exp08" />
+        <item index="3" class="java.lang.String" itemvalue="Python.exp07" />
+        <item index="4" class="java.lang.String" itemvalue="Python.exp06" />
       </list>
     </recent_temporary>
   </component>
@@ -444,13 +461,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/game_05/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/game_05/graphic/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -795,8 +805,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tf_exp/exp09.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_exp/exp10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
