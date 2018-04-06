@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8931dbe0-e918-416e-b51b-a31df3fd062c" name="Default" comment="" />
+    <list default="true" id="8931dbe0-e918-416e-b51b-a31df3fd062c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,16 +33,6 @@
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="02.1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JumptoPython/02.1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -101,12 +93,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exp19.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="exp19.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tf_exp/exp19.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exp20.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tf_exp/exp20.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="95" column="35" lean-forward="true" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -143,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/05.3.game/graphic/render.py" />
         <option value="$PROJECT_DIR$/game_05/__init__.py" />
         <option value="$PROJECT_DIR$/game_05/graphic/__init__.py" />
         <option value="$PROJECT_DIR$/game_05/sound/__init__.py" />
@@ -194,6 +199,7 @@
         <option value="$PROJECT_DIR$/tf_exp/exp17.py" />
         <option value="$PROJECT_DIR$/tf_exp/exp18.py" />
         <option value="$PROJECT_DIR$/tf_exp/exp19.py" />
+        <option value="$PROJECT_DIR$/tf_exp/exp20.py" />
       </list>
     </option>
   </component>
@@ -238,6 +244,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -254,8 +262,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -273,25 +279,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exp19">
-    <configuration name="exp15" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tf_exp" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="__Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf_exp/exp15.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.exp20">
     <configuration name="exp16" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -364,20 +352,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="exp20" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tf_exp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="__Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf_exp/exp20.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.exp15" />
-      <item index="1" class="java.lang.String" itemvalue="Python.exp16" />
-      <item index="2" class="java.lang.String" itemvalue="Python.exp17" />
-      <item index="3" class="java.lang.String" itemvalue="Python.exp18" />
-      <item index="4" class="java.lang.String" itemvalue="Python.exp19" />
+      <item index="0" class="java.lang.String" itemvalue="Python.exp16" />
+      <item index="1" class="java.lang.String" itemvalue="Python.exp17" />
+      <item index="2" class="java.lang.String" itemvalue="Python.exp18" />
+      <item index="3" class="java.lang.String" itemvalue="Python.exp19" />
+      <item index="4" class="java.lang.String" itemvalue="Python.exp20" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.exp19" />
-        <item index="1" class="java.lang.String" itemvalue="Python.exp18" />
-        <item index="2" class="java.lang.String" itemvalue="Python.exp17" />
-        <item index="3" class="java.lang.String" itemvalue="Python.exp16" />
-        <item index="4" class="java.lang.String" itemvalue="Python.exp15" />
+        <item index="0" class="java.lang.String" itemvalue="Python.exp20" />
+        <item index="1" class="java.lang.String" itemvalue="Python.exp19" />
+        <item index="2" class="java.lang.String" itemvalue="Python.exp18" />
+        <item index="3" class="java.lang.String" itemvalue="Python.exp17" />
+        <item index="4" class="java.lang.String" itemvalue="Python.exp16" />
       </list>
     </recent_temporary>
   </component>
@@ -448,13 +454,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JumptoPython/05.6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1656">
-          <caret line="72" column="27" lean-forward="false" selection-start-line="72" selection-start-column="27" selection-end-line="72" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JumptoPython/05.1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="667">
@@ -719,9 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3542">
           <caret line="156" column="0" lean-forward="false" selection-start-line="156" selection-start-column="0" selection-end-line="161" selection-end-column="50" />
-          <folding>
-            <element signature="e#2526#2549#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -810,9 +806,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tf_exp/exp19.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_exp/exp20.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="95" column="35" lean-forward="true" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
